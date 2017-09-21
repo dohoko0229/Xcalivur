@@ -1,53 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
  
-<channels>
-    <channels_info>
-      <title>[COLOR yellow]Blacktiger Production[/COLOR]</title>
-      <genre>Peliculas</genre>
-      <description>Mejores Peliculas</description>
-      <thumbnail>http://1.bp.blogspot.com/-LvMlqDGGi5w/VfHcSKKf-qI/AAAAAAAAEx8/LSns1UE3nIM/s1600/Logo%2BNuevo.jpg</thumbnail>
-      <fanart>http://kodi.tv/wp-content/uploads/banner-sbs-11-600x336.png</fanart>
-      <date>21.09.2017</date>
-      <credits>Gracias a Blacktger Production</credits>
-    </channels_info>
-<channels>
-
- 
-<channel>
-      <name>[COLOR cyan][/COLOR][COLOR yellow]                                                            Blacktiger Production[/COLOR]</name>
-  <thumbnail>http://1.bp.blogspot.com/-LvMlqDGGi5w/VfHcSKKf-qI/AAAAAAAAEx8/LSns1UE3nIM/s1600/Logo%2BNuevo.jpg</thumbnail>
-<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>http://pastebin.com</externallink>
-</channel>
-  </channels>
- 
-   
- 
- 
- 
-<channels>
- 
-<channel>
-      <name>[COLOR cyan][/COLOR][COLOR light blue]                                            Update:[/COLOR][COLOR yellow] 11[/COLOR]-Enero-2016[COLOR cyan][COLOR  lime][/COLOR]  [/COLOR]</name>
-  <thumbnail>http://kentuckyrec.com/site/wp-content/uploads/2013/07/Update.jpg</thumbnail>
-<fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
-<link>http://ignoreme</link>
-   <externallink>http://pastebin.com</externallink>
-</channel>
-  </channels>
- 
- 
- 
-
-
- 
-
 
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] PELICULAS [/COLOR]</name>
+      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] ESTRENOS [/COLOR]</name>
   <thumbnail>http://4.bp.blogspot.com/-ClgnoaWrxJ8/VW0Wn52h3_I/AAAAAAAAAAQ/1K0Hn8oQxaE/s1600/000384372.png</thumbnail>
 <fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
 <link>http://ignoreme</link>
@@ -57,16 +14,11 @@
  
  
 
-
- 
-
-
- 
  
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] SERIES[/COLOR]</name>
+      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] COLECCIÓN[/COLOR]</name>
   <thumbnail>http://4.bp.blogspot.com/-8Dk8UqlNSNw/VpOq8TT0mvI/AAAAAAAAE-c/yToqP8NVK5Q/s1600/canales.png</thumbnail>
 <fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
 <link>http://ignoreme</link>
@@ -77,14 +29,10 @@
  
 
 
-
-
-
-
 <channels>
  
 <channel>
-      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] INFANTILES[/COLOR]</name>
+      <name>[COLOR cyan][COLOR  lime]•  [/COLOR] SAGAS[/COLOR]</name>
   <thumbnail></thumbnail>
 <fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
 <link>http://ignoreme</link>

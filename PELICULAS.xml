@@ -22,7 +22,11 @@
   <thumbnail>http://4.bp.blogspot.com/-8Dk8UqlNSNw/VpOq8TT0mvI/AAAAAAAAE-c/yToqP8NVK5Q/s1600/canales.png</thumbnail>
 <fanart>http://maxprint.pl/kodi-hd.jpg</fanart>
 <link>http://ignoreme</link>
-   <externallink>http://pastebin.com</externallink>
+<<<<<<< HEAD
+   <externallink>https://raw.githubusercontent.com/dohoko0229/Xcalivur/master/Coleccion Dorada.xml</externallink>
+=======
+   <externallinkhttps://raw.githubusercontent.com/dohoko0229/Xcalivur/master/Coleccion Dorada.xml</externallink>
+>>>>>>> b427ea491f4abf6c70780c9e88a464f83629a5ee
 </channel>
   </channels>
  
